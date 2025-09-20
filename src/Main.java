@@ -17,10 +17,38 @@ public class Main {
         double doublesum = doubleOperandA + doubleOperandB;
         System.out.println("the sum of " + doubleOperandA + " and " + doubleOperandB + " is " + doublesum);
 
+
         double mylunchcost = 12.50;
         System.out.println("The cost of my lunch is " + mylunchcost);
 
-        // code for variabls and commit and push
+        int familyKids = 2;
+        System.out.println("the number of kids in my family is " + familyKids);
+
+        boolean rain = true;
+        System.out.println("is it raining right now?: " + rain);
+
+        double gasCost = 3.49;
+        System.out.println("The cost of gas right now is " + gasCost);
+
+        int favNumber = 67;
+        System.out.println("My favorite number is " + favNumber);
+
+        double shoesize = 10.5;
+        System.out.println("My shoesize is " + shoesize);
+
+        String month = "November";
+        System.out.println("My birth month is " + month);
+
+        String name = "Christian Bach";
+        System.out.println("My name is " + name);
+
+
+
+
+
+
+
+
 
     }
 }
